@@ -1,0 +1,13 @@
+{
+    "name": "Guardian Ball Z",
+    "options": {
+        "niceName": "Guardian Ball Z",
+        "guiName": "Guardian Ball Z"
+    },
+    "author": "pepsi,ZC",
+    "description": "makes flying guardian balls all one color",
+    "servers": ["https://raw.githubusercontent.com/pepsimemen/guardianballz/master/"],
+    "supportUrl": "https://github.com/pepsimemen/guardianballz/issues",
+    "version": "87.05",
+    "disableAutoUpdate": false
+}

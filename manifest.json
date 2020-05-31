@@ -1,0 +1,11 @@
+{
+    "files": {
+        "README.md": "5b592f21b87c98f42509c3cf8da65efd6e6bbb9b2d6becc44e0a90af32a5ebd2",
+        "index.js": "5b73d7378c0bc4b34bbd10ac59afc62b483a9e38021074a571bf1666dda5cac1",
+        "module.json": "6122ce5f13439e7ee1036a8bbf6b6bd29f23322cb969226a69187b28d126a907"
+    },
+    "defs": {
+        "C_TRY_NPC_INTERACTION": 1,
+        "S_SPAWN_NPC": 11
+    }
+}
